@@ -43,7 +43,7 @@ Ce projet démontre ma capacité à réfléchir en termes **d’architecture**, 
 - Fournit au bot des données prêtes à l’emploi  
 - Évite de mélanger logique de trading et API externes  
 
-#### **Service de gestion (logs, statistiques, ou back-office selon ton repo)**
+#### **Service de gestion (logs, statistiques, ou back-office)**
 - Traite les informations venant du bot ou du gateway  
 - Centralise des données utiles au monitoring
 
